@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_SMS Messaging Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0540debc-8e1d-4923-bf1a-a1561abe4fea</testCaseGuid>
+</TestCaseEntity>
